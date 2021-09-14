@@ -1,0 +1,134 @@
+AGGREGATED OVER LAST 1 HOURS:
+  * com.dti.att / u0a2 / v61040:
+           TOTAL: 100%
+         Service: 100%
+  * com.ws.dm / 1000 / v411300000:
+           TOTAL: 100%
+         Service: 100%
+  * com.sec.imsservice / 1000 / v1:
+           TOTAL: 100%
+      Persistent: 100%
+  * system / 1000 / v26:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.samsung.android.providers.context / u0a11 / v12:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.android.bluetooth / 1002 / v26:
+           TOTAL: 100%
+          Imp Fg: 100%
+  * com.sec.sve / 1000 / v1:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.sec.unifiedwfc / u0a142 / v621001010:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.samsung.android.beaconmanager / 5006 / v802500200:
+           TOTAL: 100%
+          Imp Bg: 100%
+  * com.synchronoss.dcs.att.r2g / u0a79 / v1802271632:
+           TOTAL: 100%
+         Service: 100%
+  * com.matchboxmobile.wisp / u0a147 / v89:
+           TOTAL: 100%
+         Service: 100%
+  * com.sec.vsim.ericssonnsds.webapp / u0a40 / v110100000:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.android.phone / 1001 / v1:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.android.systemui / u0a9 / v20171030:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.google.android.googlequicksearchbox:search / u0a77 / v301076951:
+           TOTAL: 100%
+             Top: 100%
+  * com.sec.epdg / 1000 / v26:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.sec.phone / 1001 / v1:
+           TOTAL: 100%
+          Imp Fg: 100%
+  * com.sec.android.inputmethod / u0a132 / v302030030:
+           TOTAL: 100%
+          Imp Bg: 100%
+  * com.google.android.gms / u0a24 / v200914017:
+           TOTAL: 100%
+          Imp Fg: 100%
+  * com.google.android.gms.persistent / u0a24 / v200914017:
+           TOTAL: 100%
+          Imp Fg: 100%
+  * com.sec.android.app.launcher / u0a75 / v901207050:
+           TOTAL: 100%
+             Top: 100%
+  * com.google.android.googlequicksearchbox:interactor / u0a77 / v301076951:
+           TOTAL: 100%
+          Imp Fg: 100%
+  * com.sec.vsimservice / 1000 / v1:
+           TOTAL: 100%
+      Persistent: 100%
+  * com.sec.location.nsflp2 / 5013 / v331900000:
+           TOTAL: 100%
+          Imp Fg: 100%
+  * com.samsung.android.app.spage / u0a8 / v210607000:
+           TOTAL: 100%
+         Service: 100%
+  * com.samsung.mlp / 5004 / v200700000:
+        (Cached): 100%
+  * com.samsung.android.calendar / u0a131 / v440000051:
+        (Cached): 100%
+  * com.android.defcontainer / u0a13 / v26:
+        (Cached): 100%
+  * com.brave.browser / u0a605 / v410512002:
+        (Cached): 100%
+  * android.process.media / u0a39 / v26:
+        (Cached): 100%
+  * com.android.documentsui / u0a14 / v26:
+        (Cached): 100%
+  * android.process.acore / u0a5 / v204400000:
+        (Cached): 100%
+  * com.android.vending / u0a42 / v81941800:
+        (Cached): 100%
+  * com.android.vending:download_service / u0a42 / v81941800:
+        (Cached): 100%
+  * com.sec.android.daemonapp:com.samsung.android.weather / u0a145 / v157304005:
+        (Cached): 100%
+  * com.google.android.apps.photos / u0a160 / v19429019:
+        (Cached): 100%
+  * com.sec.android.app.sbrowser / u0a127 / v1111202500:
+        (Cached): 100%
+  * com.android.chrome / u0a92 / v398716202:
+        (Cached): 100%
+  * com.samsung.cmh:CMH / 5004 / v318000000:
+        (Cached): 100%
+  * com.samsung.android.contacts / u0a5 / v382700001:
+        (Cached): 100%
+  * com.samsung.android.email.provider / u0a55 / v611100006:
+        (Cached): 100%
+  * com.sec.android.provider.badge / u0a4 / v210000002:
+        (Cached): 100%
+  * com.samsung.dcmservice / 5004 / v105600000:
+        (Cached): 100%
+  * com.samsung.android.mobileservice / u0a52 / v400100072:
+        (Cached): 100%
+  * com.samsung.android.sm.provider / 1000 / v203102001:
+      (Last Act): 100%
+  * com.samsung.android.scloud / 5009 / v300115100:
+        (Cached): 100%
+  * com.sec.android.daemonapp / u0a145 / v157304005:
+        (Cached): 100%
+  * com.google.process.gapps / u0a24 / v26:
+      (Last Act): 100%
+  * com.samsung.storyservice / 5004 / v113900000:
+        (Cached): 100%
+
+Run time Stats:
+  SOn /Norm: +253ms
+      TOTAL: +253ms
+
+Memory usage:
+  TOTAL  : 0.00
+
+          Start time: 2020-04-07 23:17:49
+  Total elapsed time: +257ms (partial) (swapped-out-pss) libart.so
